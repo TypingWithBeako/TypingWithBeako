@@ -37,7 +37,7 @@ _I'll update this section whenever I dive into something new. Check back to see 
   <summary>📊 Some of my stats...</summary>
   <br>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TypingWithBeako&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="TypingWithBeako's Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TypingWithBeako&theme=tokyonight&hide_border=true" alt="TypingWithBeako's Streak Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TypingWithBeako&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="TypingWithBeako's Stats"> <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TypingWithBeako&theme=tokyonight&hide_border=true" alt="TypingWithBeako's Streak Stats"> 
   </div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 🤔 Who am I?
 
-Just someone who enjoys building things! I'm currently exploring different programming languages and technologies whenever something interesting catches my eye. No loyalty to any specific language - we're all just telling computers what to do, right?
+Just someone who enjoys building things! I learn technologies with purpose - choosing each new tool based on what will best bring my project visions to life. No loyalty to any specific language - we're all just telling computers what to do, right?
 
 ## 🚀 What have I been up to?
 

@@ -17,7 +17,11 @@ Just someone who enjoys building things! I'm currently exploring different progr
 
 My most notable project so far is probably this obsessively detailed media player for Re:Zero that I spent way too much time on (but regret nothing!). It started as "I just want to watch my anime" and turned into a 6-month journey of "but what if I added JUST ONE MORE feature?"
 
-<strong><a href="https://re-zero.pages.dev" target="_blank">✨ Check out the Re:Zero Player ✨</a></strong>
+<p align="center">
+  <strong><a href="https://re-zero-en.pages.dev" target="_blank">✨ Re:Zero Player (English) ✨</a></strong> - For the global community!
+  <br>
+  <strong><a href="https://re-zero.pages.dev" target="_blank">🇻🇳 Re:Zero Player (Tiếng Việt) 🇻🇳</a></strong> - The original version for Vietnamese fans!
+</p>
 
 ## 💡 My development philosophy
 

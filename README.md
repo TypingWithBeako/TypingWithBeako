@@ -15,7 +15,7 @@ Just someone who enjoys building things! I'm currently exploring different progr
 
 ## 🚀 What have I been up to?
 
-My most notable project so far is probably this obsessively detailed media player for Re:Zero that I spent way too much time on (but regret nothing!). It started as "I just want to watch my anime" and turned into a 6-month journey of "but what if I added JUST ONE MORE feature?"
+My most notable project so far is probably this obsessively detailed media player for Re:Zero that I spent way too much time on (but regret nothing!). It started as "I just want to watch my anime" and turned into a 7-month journey of "but what if I added JUST ONE MORE feature?"
 
 <p align="center">
   <strong><a href="https://re-zero-en.pages.dev" target="_blank">✨ Re:Zero Player (English) ✨</a></strong> - For the global community!

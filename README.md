@@ -33,7 +33,7 @@ My most notable project so far is probably this obsessively detailed media playe
 
 **Currently learning:** <a href="https://www.coursera.org/professional-certificates/google-it-automation" target="_blank">Automation with Python</a> (Google's Coursera course) - _April 2025_
 
-I'm always exploring new technologies and skills. My learning journey tends to follow my curiosity rather than a rigid roadmap. 🗺️
+🎯 I believe in strategic exploration - diving into new technologies when they offer unique capabilities I need, rather than learning for learning's sake.
 
 _I'll update this section whenever I dive into something new. Check back to see where the journey goes next!_ 
 

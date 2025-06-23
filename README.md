@@ -31,7 +31,7 @@ My most notable project so far is probably this obsessively detailed media playe
 
 ## 🌱 What's next?
 
-**Currently learning:** <a href="https://www.coursera.org/professional-certificates/google-it-automation" target="_blank">Automation with Python</a> (Google's Coursera course) - _April 2025_
+**Currently learning:** <a href="https://www.theodinproject.com/" target="_blank">Full-Stack Web Development</a> (The Odin Project) - _June 2025_
 
 🎯 I believe in strategic exploration - diving into new technologies when they offer unique capabilities I need, rather than learning for learning's sake.
 
